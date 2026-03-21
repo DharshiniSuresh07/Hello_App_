@@ -36,3 +36,19 @@ This version handles both cases:
 
 \- Without argument → Hello, World!
 
+
+
+\## UC4
+
+
+
+This version supports multiple names:
+
+\- java Hello\_app\_UC2 Alice Bob → Hello, Alice, Bob!
+
+\- java Hello\_app\_UC2 → Hello, World!
+
+
+
+
+
