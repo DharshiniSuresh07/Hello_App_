@@ -18,3 +18,9 @@ java Hello\_app\_UC2 Alice
 
 \##UC2 Implemented successfully
 
+
+
+\##UC1 
+
+Displays "Hello, World!" message.
+
