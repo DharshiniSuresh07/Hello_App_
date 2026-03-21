@@ -20,7 +20,19 @@ java Hello\_app\_UC2 Alice
 
 
 
-\##UC1 
+\##UC1
 
 Displays "Hello, World!" message.
+
+
+
+\## UC3
+
+
+
+This version handles both cases:
+
+\- With argument → Hello, Alice!
+
+\- Without argument → Hello, World!
 
