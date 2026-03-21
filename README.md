@@ -16,3 +16,5 @@ javac Hello\_app\_UC2.java
 
 java Hello\_app\_UC2 Alice
 
+\##UC2 Implemented successfully
+
