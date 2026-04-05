@@ -64,3 +64,19 @@ java HelloApp Alice Bob → Hello, Alice, Bob!
 
 java HelloApp → Hello, World!
 
+
+
+\## UC6
+
+
+
+This version uses substring() to remove trailing delimiter.
+
+
+
+Examples:
+
+java HelloApp Alice Bob → Hello, Alice, Bob!
+
+java HelloApp → Hello, World!
+
