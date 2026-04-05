@@ -50,5 +50,17 @@ This version supports multiple names:
 
 
 
+\## UC5
 
+
+
+This version uses StringBuilder to efficiently handle multiple names.
+
+
+
+Examples:
+
+java HelloApp Alice Bob → Hello, Alice, Bob!
+
+java HelloApp → Hello, World!
 
