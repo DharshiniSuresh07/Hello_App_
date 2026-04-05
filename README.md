@@ -80,3 +80,19 @@ java HelloApp Alice Bob → Hello, Alice, Bob!
 
 java HelloApp → Hello, World!
 
+
+
+\## UC7
+
+
+
+This version uses String.join() for clean and efficient concatenation.
+
+
+
+Examples:
+
+java HelloApp Alice Bob → Hello, Alice, Bob!
+
+java HelloApp → Hello, World!
+
